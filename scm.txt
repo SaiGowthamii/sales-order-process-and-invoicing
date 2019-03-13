@@ -1,0 +1,31 @@
+sales order processing and invoicing
+?    System shall display all the products that can be configured
+?    System shall notify at the end of the day
+?    System shall update date to datebase
+?    System shall work in offline
+?    System shall provide up to minute information
+
+1.Gathering requirements
+. user requirements document
+. Existing System requirements
+. Internet requirements
+. Expert advice
+. Functional requirements
+
+output : supplementary specification document
+2. Analysis
+.  Problem statement
+.  Feasibility study
+.  Literature Survey
+.  Scope
+.  Allocating resources ,people and schedules
+.  Hardware and software requirements
+.  use case diagram
+.  use case documentation
+
+Output :Software requirement specification
+3. Design
+.  object diagram
+.  Dynamic diagram
+.  Rational rose legal document
+.  Gantt chart 
