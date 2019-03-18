@@ -29,3 +29,5 @@ Output :Software requirement specification
 .  Dynamic diagram
 .  Rational rose legal document
 .  Gantt chart 
+4.Testing
+ Reviewand auditing
