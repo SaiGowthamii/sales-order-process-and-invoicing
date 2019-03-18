@@ -31,3 +31,4 @@ Output :Software requirement specification
 .  Gantt chart 
 4.Testing
  Reviewand auditing
+ automating testing
